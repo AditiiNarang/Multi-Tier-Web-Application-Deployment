@@ -1,4 +1,4 @@
-# Project 6 – Multi-Tier Web Application Deployment on AWS
+# Multi-Tier Web Application Deployment on AWS
 
 A multi-tier web application deployed on **Amazon Web Services (AWS)** using **Amazon VPC, Public and Private Subnets, Internet Gateway, NAT Gateway, Bastion Host, Application Load Balancer, Amazon EC2, and Amazon RDS MySQL**.
 
