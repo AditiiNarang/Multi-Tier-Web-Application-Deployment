@@ -57,7 +57,7 @@ The application is deployed on a private EC2 instance, while the Application Loa
 The project follows a **multi-tier AWS architecture** consisting of a public-facing load balancing layer, a private application layer, and a private database layer.
 
 ### Architecture Image
-[Architecture Image](./Architecture.png)
+[![Architecture Image](./Architecture.png)](./Architecture.png)
 
 ### Architecture Flow
 
