@@ -429,9 +429,9 @@ Detailed project documentation can be maintained in the `docs/` directory.
 
 ### Documentation Files
 
-* **Theory Notes** – `docs/THEORY.md`
-* **Implementation Guide** – `docs/IMPLEMENTATION.md`
-* **Architecture Diagram** – `docs/architecture-diagram.png`
+* **[Theory Notes](https://docs.google.com/document/d/1AU9PN1aQwrPAfnRJjzFhGcL-ssbrzYCg-kJRC1hWcRk/edit?usp=sharing)**
+* **[Implementation Guide](https://docs.google.com/document/d/1AU9PN1aQwrPAfnRJjzFhGcL-ssbrzYCg-kJRC1hWcRk/edit?usp=sharing)**
+* **[Architecture Diagram](https://docs.google.com/document/d/1AU9PN1aQwrPAfnRJjzFhGcL-ssbrzYCg-kJRC1hWcRk/edit?usp=sharing)**
 
 The theory covers:
 
