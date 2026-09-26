@@ -400,7 +400,7 @@ The project can be further extended by implementing:
 
 # Documentation
 
-Detailed project documentation can be maintained in the `docs/` directory.
+Detailed project documentation:
 
 ### Documentation Files
 
