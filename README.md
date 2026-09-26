@@ -4,6 +4,10 @@ A multi-tier web application deployed on **Amazon Web Services (AWS)** using **A
 
 This project demonstrates network segmentation, secure application deployment, database connectivity, load balancing, and scalable cloud architecture.
 
+**Technology Stack:** AWS + Node.js + MySQL
+
+**Architecture:** VPC + ALB + EC2 + RDS
+
 ---
 
 ## Table of Contents
@@ -457,7 +461,3 @@ The theory covers:
 # Author
 
 **Aditi Narang**
-
-**Technology Stack:** AWS + Node.js + MySQL
-
-**Architecture:** VPC + ALB + EC2 + RDS
