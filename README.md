@@ -16,7 +16,6 @@ This project demonstrates network segmentation, secure application deployment, d
 * [Architecture](#architecture)
 * [Deployment Workflow](#deployment-workflow)
 * [AWS Services Used](#aws-services-used)
-* [Repository Structure](#repository-structure)
 * [Deployment Summary](#deployment-summary)
 * [Application Deployment](#application-deployment)
 * [Database Configuration](#database-configuration)
@@ -177,35 +176,6 @@ Internet
 | **Security Groups**           | Controls resource-level access                         |
 | **Network ACL**               | Provides subnet-level network filtering                |
 | **Auto Scaling**              | Supports dynamic application scaling                   |
-
----
-
-# Repository Structure
-
-```text
-project-6-multi-tier-aws
-│
-├── README.md
-│
-├── docs/
-│   ├── THEORY.md
-│   ├── IMPLEMENTATION.md
-│   └── architecture-diagram.png
-│
-├── screenshots/
-│   ├── vpc/
-│   ├── subnets/
-│   ├── route-tables/
-│   ├── nat-gateway/
-│   ├── ec2/
-│   ├── rds/
-│   ├── security-groups/
-│   ├── load-balancer/
-│   └── testing/
-│
-└── application/
-    └── README.md
-```
 
 ---
 
