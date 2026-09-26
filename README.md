@@ -402,8 +402,6 @@ The project can be further extended by implementing:
 
 Detailed project documentation:
 
-### Documentation Files
-
 * **[Theory Notes](https://docs.google.com/document/d/1AU9PN1aQwrPAfnRJjzFhGcL-ssbrzYCg-kJRC1hWcRk/edit?usp=sharing)**
 * **[Implementation Guide](https://docs.google.com/document/d/1AU9PN1aQwrPAfnRJjzFhGcL-ssbrzYCg-kJRC1hWcRk/edit?usp=sharing)**
 * **[Architecture Diagram](https://docs.google.com/document/d/1AU9PN1aQwrPAfnRJjzFhGcL-ssbrzYCg-kJRC1hWcRk/edit?usp=sharing)**
