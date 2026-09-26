@@ -15,6 +15,7 @@ This project demonstrates network segmentation, secure application deployment, d
 * [Project Overview](#project-overview)
 * [Architecture](#architecture)
 * [Deployment Workflow](#deployment-workflow)
+* [Subnet Design](#subnet-design)
 * [AWS Services Used](#aws-services-used)
 * [Deployment Summary](#deployment-summary)
 * [Application Deployment](#application-deployment)
@@ -158,6 +159,13 @@ Internet Gateway
      ▼
 Internet
 ```
+
+---
+
+# Subnet Design
+2 Public Subnets – One in each Availability Zone for the Internet-facing ALB, providing Multi-AZ availability and fault tolerance.
+2 Private Subnets – One in each Availability Zone for the EC2 Web/Application Servers, keeping them isolated from direct internet access.
+RDS DB Subnet Group – Existing private subnets from two Availability Zones are selected, allowing RDS Multi-AZ deployment with Primary and Standby DB instances for high availability and automatic failover.
 
 ---
 
